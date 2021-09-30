@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FamilyMapClient</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="server_host">Server Host</string>
+    <string name="server_port">Server Port</string>
+    <string name="port_num">8080</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="iconName">Icon</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_welcome_top">Welcome to Family Map</string>
+    <string name="map_welcome_bottom">Click on an event marker</string>
+    <string name="gender">Gender</string>
+    <string name="person_activity">Family Map: Person Details</string>
+    <string name="person_activity_event_title">Life events</string>
+    <string name="person_activity_person_title">Family</string>
+    <string name="settings_icon">Settings Icon</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="Family_Map">Family Map</string>
+    <string name="settings_activity">Family Map: Settings</string>
+    <string name="life_story_enable">Life Story Lines</string>
+    <string name="family_tree_enable">Family Tree Lines</string>
+    <string name="spouse_lines_enable">Spouse Lines</string>
+    <string name="father_side_enable">Father\'s Side Events</string>
+    <string name="mother_side_enable">Mother\'s Side Events</string>
+    <string name="male_enable">Male Events</string>
+    <string name="female_enable">Female Events</string>
+    <string name="logout">Logout</string>
+    <string name="search_box">Type to search</string>
+    <string name="seach_activity">Family Map: Search</string>
+</resources>

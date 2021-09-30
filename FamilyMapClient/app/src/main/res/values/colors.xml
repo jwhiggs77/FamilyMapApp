@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkGreen">#1B3409</color>
+    <color name="midGreen">#375F1B</color>
+    <color name="green">#66B032</color>
+    <color name="lightGreen">#9BD770</color>
+    <color name="paleGreen">#EBF7E3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="male">#0099ff</color>
+    <color name="femaleColor">#ff66cc</color>
+</resources>
